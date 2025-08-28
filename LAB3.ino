@@ -1,5 +1,5 @@
 void setup() {
-  // put your setup code here, to run once:
+  // put your setup code here, to run once: 
   digitalWrite(4, LOW);
   pinMode(A6, INPUT);
   int lightLevel = analogRead(A6);
